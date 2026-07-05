@@ -1,4 +1,4 @@
-# StockWatch — Inventory Reorder Reasoning Agent
+# StockWatch — Inventory Forecasting Agent
 
 An AI agent that goes beyond predicting inventory demand: it reasons about
 **how much to trust its own forecast**, and turns that reasoning into a
